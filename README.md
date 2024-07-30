@@ -6,7 +6,7 @@ Dataset can be downloaded at https://ieee-dataport.org/documents/qrng-machine-le
 
 Google colab tutorial version: https://colab.research.google.com/drive/1bTw3-hNEa-EhnWlbHb12pbglh-xLbXzm?usp=sharing
 
-#### Requirements
+#### Requirements 
 Paper Version
 * Keras==2.1.6
 * numpy==1.11.0
